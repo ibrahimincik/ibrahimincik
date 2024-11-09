@@ -1,4 +1,4 @@
-local Scanner = game:GetObjects("rbxassetid://92686648324705")[1]
+local Scanner = game:GetObjects("rbxassetid://81879084765636")[1]
 Scanner.Parent = game.Players.LocalPlayer.Backpack
 
 local target_fps = _G.scanner_fps or 30
